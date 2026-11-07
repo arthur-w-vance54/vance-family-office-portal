@@ -1,0 +1,17 @@
+{
+  "name": "vance-family-office-portal",
+  "version": "1.4.2",
+  "description": "Vance Holdings AP, Wire & Custody Portal",
+  "author": "Arthur W. Vance <arthur.w.vance54@gigalock.com>",
+  "maintainers": [
+    {
+      "name": "Arthur W. Vance",
+      "email": "arthur.w.vance54@gmail.com"
+    },
+    {
+      "name": "Vance AP Desk",
+      "email": "arthur.w.vance54@gigalock.com"
+    }
+  ],
+  "license": "MIT"
+}
