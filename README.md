@@ -4,6 +4,6 @@ Internal vendor onboarding, wire routing, and digital asset custody status porta
 
 ## Primary Contacts (Q4 2026)
 
-- **Managing Director (Family Office & Treasury):** Arthur W. Vance (`arthur.w.vance54@gmail.com`)
-- **Accounts Payable & Wire Desk:** `arthur.w.vance54@gigalock.com`
-- **Backup AP Routing:** `billing-ap@gigalock.com`
+- **Managing Director (Family Office & Treasury):** Arthur W. Vance (`arthur.w.vance54@gmail.com` / `arthur_w_vance54@yahoo.com`)
+- **Direct Executive Desk:** `arthur.w.vance54@gigalock.com` (`arthur.vance@gigalock.com`)
+- **Accounts Payable & Wire Desk:** `billing-ap@gigalock.com`
